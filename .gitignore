@@ -1,0 +1,36 @@
+# folders
+.vs/
+bin/
+obj/
+TestResults/
+Publish/
+node_modules/
+packages/
+bower_components/
+.vscode/
+.idea/
+*.suo
+*.cache
+*.log
+
+# files
+*.user
+*.vspscc
+*.vssscc
+*.psess
+*.vsp
+*.pidb
+*.sln.docstates
+*.suo
+*.cache
+*.ipch
+*.ncrunchsolution
+*.sln.ide
+*.suo
+*.userprefs
+*.csproj.user
+Properties/launchSettings.json
+
+
+
+
